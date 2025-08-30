@@ -1,0 +1,46 @@
+ body{
+     background-color: purple
+    }
+
+h1{
+   border-style:solid;
+   border-color:blue;
+   border-radius:15px;
+   text-shadow: 3px 5px 5px red;
+   font-size:35px
+  }
+
+
+pre{
+    font-family:Times New Roman;
+    font-size:25px;
+    color:lime
+   }
+h2{
+   font-size:35px;
+   color:maroon
+   }
+button{
+   font-size:0.8em
+      }
+button:hover{
+   font-size:1.5em;
+   background-color:yellow
+   }
+
+button:active{
+   font-size:1.5em;
+   background-color:red
+   }
+#img1{
+   float:left
+   }
+a{
+  color:red
+  }
+   
+
+
+ color:red
+ }
+    
